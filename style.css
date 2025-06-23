@@ -1,0 +1,18 @@
+span {
+  background-color: red;
+}
+body{
+  text-align: center;
+  background-color: blue;
+  margin: 35px 25px;
+}
+
+#writing{
+  height: 400px;
+}
+#writings{
+  height: 150px;
+}
+h2{
+   color: white;
+}
